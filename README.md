@@ -8,7 +8,8 @@ WebApp: [glowapp-staging.netlify.app](https://glowapp-staging.netlify.app/)
 * Java 11
 * Maven 3.9.2
 * Lombok
-* PostgreSQL com Flyway
+* PostgreSQL
+* Flyway
 * JPA / Hibernate
 * Bean Validation
 
