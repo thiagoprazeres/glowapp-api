@@ -20,3 +20,7 @@ WebApp: [glowapp-staging.netlify.app](https://glowapp-staging.netlify.app/)
 # Rodar projeto
 
 `mvn spring-boot:run`
+
+# Deploy para Azure Aplicativo Web
+
+`mvn package azure-webapp:deploy`
