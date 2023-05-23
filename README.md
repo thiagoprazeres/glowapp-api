@@ -21,6 +21,10 @@ WebApp: [glowapp-staging.netlify.app](https://glowapp-staging.netlify.app/)
 
 `mvn spring-boot:run`
 
+# Documentação com OpenAPI
+
+SpringDoc: [/swagger-ui.html](https://glowapp-staging.netlify.app/swagger-ui.html)
+
 # Deploy para Azure Aplicativo Web
 
 `mvn package azure-webapp:deploy`
