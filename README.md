@@ -23,7 +23,7 @@ WebApp: [glowapp-staging.netlify.app](https://glowapp-staging.netlify.app/)
 
 # Documentação com OpenAPI
 
-SpringDoc: [/swagger-ui.html](https://glowapp-staging.netlify.app/swagger-ui.html)
+SpringDoc: [/swagger-ui.html](https://glowapp-api.azurewebsites.net/swagger-ui/index.html)
 
 # Deploy para Azure Aplicativo Web
 
